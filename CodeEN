@@ -1,0 +1,6 @@
+print("Hi!")
+
+name = input("Enter a name: ")
+name2 = input("Enter your age: ")
+
+print("Hello " + str(name) + " You're already " + str(name2))
