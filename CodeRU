@@ -1,0 +1,6 @@
+print("Привет")
+
+name = input("Введите имя: ")
+name2 = input("Введите возраст: ")
+
+print("Привет " + str(name) + " Тебе уже " + str(name2))
